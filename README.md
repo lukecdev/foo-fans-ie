@@ -7,6 +7,19 @@
 ----------------------------------------------
 
 ## **[Respository]()**
+----------------------------------------------
+
+## Table of contents
+
+1. [ UX ](#ux)
+2. [ Features ](#features)
+3. [ Features left to Implement ](#left)
+4. [ Technology used ](#tech)
+5. [ Testing ](#test)
+6. [ Bugs ](#bugs)
+7. [ Deployment ](#deployment)
+8. [ Credits ](#credits)
+9. [ Acknowledgements ](#acknowledgements)
 
 ## Gitpod Reminders
 
