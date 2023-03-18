@@ -11,11 +11,20 @@ body {
     color: black;
 }
 
+/* logo */
+#logo{
+    
+    width: 500px;
+    height: 500px;
+}
 /* navigation links */
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
 }
 #menu li {
     margin: 0 15px;
@@ -31,4 +40,24 @@ body {
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
 }
