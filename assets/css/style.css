@@ -48,6 +48,11 @@ header {
     color: black;
 }
 
+.Discography
+.Members
+.home {
+    border-bottom: 1px solid #3a3a3a;
+}
 
 
 /* logo */
@@ -89,6 +94,23 @@ header {
     height: 600px;
     width: 100%;
     background: url('../images/band-place-holder-image.jpg')no-repeat center center;
+
+
+    /* zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+/* zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.15);
+    }
 }
 
 /* Members Bios */
