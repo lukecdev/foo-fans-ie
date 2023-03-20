@@ -93,6 +93,26 @@ header {
 
 /* footer */
 
+.social {
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social ul {
+    padding-top: 10px;
+}
+
+.social i {
+    font-size: 2em;
+    margin: 2%;
+    padding: 1%;
+    border-radius: 50%;
+    color: black;
+}
+
 footer {
 height: 150px;
 }
