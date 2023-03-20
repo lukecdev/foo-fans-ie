@@ -91,6 +91,32 @@ header {
     background: url('../images/band-place-holder-image.jpg')no-repeat center center;
 }
 
+/* Members Bios */
+
+.flex-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.flex-text-parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sub-members {
+    padding: 0px 30px;
+}
+
+img{
+    width:100%;
+    max-width:400px;
+}
+.sub-members img {
+    border-radius: 50%;
+}
+
 /* footer */
 
 .social {
