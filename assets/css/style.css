@@ -176,9 +176,9 @@ li a {
     justify-content: space-evenly;
 }
 
-.flex-text-parent {
+.profile-one {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -186,21 +186,21 @@ li a {
     flex-direction: row-reverse;
 }
 
-.flex-text-parent {
+.profile-two {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row-reverse;
+    justify-content: right;
 }
 
 .sub-members {
     padding: 0px 30px;
 }
 
-img{
+.david-profile img{
     width:100%;
     max-width:400px;
 }
-.sub-members img {
+.david-profile img {
     border-radius: 50%;
 }
 
