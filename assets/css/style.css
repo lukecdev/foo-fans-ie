@@ -182,6 +182,16 @@ li a {
     justify-content: center;
 }
 
+.flex-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-text-parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .sub-members {
     padding: 0px 30px;
 }
