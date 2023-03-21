@@ -124,9 +124,15 @@ li a {
 /* hero image */
 
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: url('../images/band-place-holder-image.jpg')no-repeat center center;
+    background-size: cover;
+    margin-top: auto;
+    display: flex;
+    padding: 0;
+    background: url('../images/ff-hero-image-concert.jpg')no-repeat center center;
+
+    
 
 
     /* zoom effect on loading page */
@@ -144,6 +150,15 @@ li a {
     to{
         transform: scale(1.15);
     }
+}
+
+/* history of band */
+
+.history h1 {
+    margin: 0 0 50px 0;
+    padding: 0 10px;
+    font-size: 5em;
+    text-align: center;
 }
 
 /* Members Bios */
