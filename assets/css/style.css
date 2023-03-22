@@ -237,18 +237,32 @@ li a {
 
 /* discogophy */
 
+.albums {
+    padding: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+}
+
 .timeline {
     display: flex;
     flex-direction: column;
-    padding: 5% 5% 5% 5%;
+    padding: 5% 3% 5% 3%;
     text-align: center;
-    background-color: red;
+    background-color: rgb(175,157,140);
+   
 }
 
 .timeline-row {
     display: flex;
     flex-direction: row;
     width: 100%;
+}
+
+.box-left.empty,
+.box-right.empty {
+    background-color: rgb(175,157,140);
+    border: none;
 }
 
 .box-left {
