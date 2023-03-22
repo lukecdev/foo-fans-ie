@@ -235,6 +235,35 @@ li a {
     border-radius: 50%;
 }
 
+/* discogophy */
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    padding: 5% 5% 5% 5%;
+    text-align: center;
+    background-color: red;
+}
+
+.timeline-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.box-left {
+    order: 1;
+    padding: 2%;
+    background-color: blue;
+    width: 45%;
+}
+
+.box-middle {
+    order: 2;
+    flex-grow: 1;
+    text-align: center;
+}
+
 /* footer */
 
 .social {
