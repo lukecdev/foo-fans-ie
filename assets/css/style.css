@@ -251,6 +251,14 @@ li a {
     clear: both;
 }
 
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+
 .card {
     box-shadow: 0 4px 4px 0 black;
     padding: 16px;
