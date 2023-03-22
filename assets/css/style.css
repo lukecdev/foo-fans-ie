@@ -171,6 +171,7 @@ li a {
 }
 
 .history-info {
+    margin: auto;
     width: 50%;
     height: 50%;
     background-color: #b0212b;
