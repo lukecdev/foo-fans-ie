@@ -127,6 +127,7 @@ li a {
     height: 60vh;
     width: 100%;
     position: relative;
+    border: 4px solid black;
 }
 
 .hero-image-concert {
@@ -201,7 +202,7 @@ li a {
 .history-title h1 {
     margin-bottom: 15px;
     line-height: 75px;
-    font-size: 200%;
+    font-size: 300%;
     letter-spacing: 4px;
 }
 
@@ -209,15 +210,16 @@ li a {
     margin: auto;
     width: 50%;
     height: 50%;
-    background-color: #b0212b;
+    background-color: #f3f1f1;
     float: none;
+    border: 2px solid black;
 
 }
 
 .history-info p {
     text-align: center;
-    top: 50%;
-    font-size: 100%;
+    top: 5%;
+    font-size: 1.5em;
     
 }
 .history h1 {
