@@ -204,9 +204,15 @@ li a {
 
 /* new members bio layout */
 
+* {
+    box-sizing:border-box;
+}    
 .container {
-    padding: 64px;
+    padding: 50px;
+    margin: 4% 4% 4% 4%;
+    border: 2px solid black;
   }
+  
   
   /* Clear floats */
   .row:after {
@@ -231,6 +237,7 @@ li a {
 
 /* new layout end */
 
+/*
 .flex-parent {
     display: flex;
     flex-direction: row;
@@ -264,6 +271,7 @@ li a {
 .david-profile img {
     border-radius: 50%;
 }
+*/
 
 /* discogophy */
 
