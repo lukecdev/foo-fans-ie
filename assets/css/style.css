@@ -123,6 +123,21 @@ li a {
 
 /* hero image */
 
+.hero-image {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    font-size: 100%;
+    bottom: 50%;
+    right: 50%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*
 #hero-image {
     height: 500px;
     width: 100%;
@@ -131,8 +146,18 @@ li a {
     display: flex;
     padding: 0;
     background: url('../images/ff-hero-image-concert.jpg')no-repeat center center;
+}
+*/
 
-    
+/*
+#cover-text {
+        min-height: 400px;
+        min-width: 100%;
+        background: url('../images/ff-hero-image-concert.jpg')no-repeat center center;
+        background-size: cover;
+        position: relative;
+        background-color: #ccac90;
+}
 
 
     /* zoom effect on loading page */
@@ -140,7 +165,7 @@ li a {
     animation-duration: 5s;
     animation-fill-mode: forwards; */
 
-}
+
 
 /* zoom for hero image */
 @keyframes hero-zoom {
@@ -235,50 +260,14 @@ li a {
     padding: 20px;
   }
 
-/* new layout end */
 
-/*
-.flex-parent {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-
-.profile-one {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-
-.flex-reverse {
-    flex-direction: row-reverse;
-}
-
-.profile-two {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: right;
-}
-
-.sub-members {
-    padding: 0px 30px;
-}
-
-.david-profile img{
-    width:100%;
-    max-width:400px;
-}
-.david-profile img {
-    border-radius: 50%;
-}
-*/
 
 /* discogophy */
 
 .column {
     float: left;
     width: 25%;
-    padding: 0 10px;
+    padding: 5px 20px;
 }
 
 .row {margin: 0 -5px;}
