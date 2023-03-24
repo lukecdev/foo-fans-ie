@@ -27,110 +27,65 @@
 
 # UX design
 
-## Strategy Plane
+I designed thios website as an introduction of the American band Foo Fighters to new listioners. Providing information on their band members, history and discography.
 
-## User Stories
 
-### User
-> As a user I want to be able to find
+## Features
 
-### Business Owner
-> As the site owner
+The following is a summery of the features already in place and those that could be implemented in the future.
 
-## Scope Plane
-> The website should have
+## Existing Features
 
-## Structure Plane
-> To acheieve the goals of the above the website should inculde at least 3 pages consisting of: Home, Members, Discography.
-
-**Home Page**
 > Navigation with links
 
-**Members**
+### Features left to Implement
+
 > The about page should show a picture of a 
 
-**Discography**
+## Testing
 >
 
-## Skeleton Plane
+### Browser Compatibility 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### testing Matrix
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
-------
+### Noted Issues
 
-## Release History
+## Technoligies Used
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- [HTML5]( https://www.w3.org/TR/2017/REC-html52-20171214/)
+	- Used to construct the site pages.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+- [CSS3]( https://www.w3.org/standards/techs/css#w3c_all)
+	- Provides styling for all pages and their content.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- [Font Awesome 5]( https://fontawesome.com/icons?d=gallery)
+	- Icon elements used in the ‘Further Resources’ table.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+- [jQuery]( https://jquery.com/)
+	- Used to enable the Back-to-Top button functionality. Although outside the scope of this project, its inclusion provides a better user  experience.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- [Google Fonts]( https://fonts.google.com/)
+	- Fonts used on the site are provided from Google Fonts. They are more visually relevant to the overall design of the site, and cannot be hosted locally on GitHub.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## Deployment
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The site has been deployed using GitHub Pages and is available to review here[]
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Content
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Text content on all pages was copied and/or amended from the following sites:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+ - [foofighters]
+ - [wiki]
+ - [f]
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Media
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+A complete sourse for all media can be found in the [Project Outline]() word document
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Acknowledgements
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+A huge thanks to [Chris Quinn](https://github.com/10xOXR) for his help, suggestions and patiece while I put together this project. 
