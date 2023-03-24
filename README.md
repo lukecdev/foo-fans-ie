@@ -64,8 +64,7 @@ The following is a summery of the features already in place and those that could
 - [Font Awesome 5]( https://fontawesome.com/icons?d=gallery)
 	- Icon elements used in the ‘Further Resources’ table.
 
-- [jQuery]( https://jquery.com/)
-	- Used to enable the Back-to-Top button functionality. Although outside the scope of this project, its inclusion provides a better user  experience.
+
 
 - [Google Fonts]( https://fonts.google.com/)
 	- Fonts used on the site are provided from Google Fonts. They are more visually relevant to the overall design of the site, and cannot be hosted locally on GitHub.
