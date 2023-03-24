@@ -211,7 +211,6 @@ li a {
 
 /* history of band */
 
-
 .history-title h1 {
     margin-bottom: 0px;
     line-height: 75px;
@@ -252,14 +251,17 @@ li a {
 /* Members Bios */
 
 .bio-header {
-    height: 50vh;
+    height: 60vh;
     width: 100%;
     position: relative;
 }
 
 .bio-header-image {
-    background: url("../images/band-drawing.jpg") no-repeat center center;
-    height: 100%;
+    background: url("../images/ff-sky.webp") no-repeat center center;
+    background-repeat: repeat;
+    height: 50vh;
+    
+   
 }
 
 .members-heading {
