@@ -22,6 +22,12 @@ header {
     padding-left: 30px;
 }
 
+nav {
+    background-color: #1c1212;
+    padding: 20px;
+    padding-left: 30px;
+}
+
 .flex-header {
     display: flex;
     min-height: 70px;
