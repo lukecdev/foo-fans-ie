@@ -21,25 +21,38 @@
 8. [ Credits ](#credits)
 9. [ Acknowledgements ](#acknowledgements)
 
-## Gitpod Reminders
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<a name="ux"></a>
 
-`python3 -m http.server`
+# UX design
 
-A blue button should appear to click: _Make Public_,
+## Strategy Plane
 
-Another blue button should appear to click: _Open Browser_.
+## User Stories
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### User
+> As a user I want to be able to find
 
-A blue button should appear to click: _Make Public_,
+### Business Owner
+> As the site owner
 
-Another blue button should appear to click: _Open Browser_.
+## Scope Plane
+> The website should have
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Structure Plane
+> To acheieve the goals of the above the website should inculde at least 3 pages consisting of: Home, Members, Discography.
 
-To log into the Heroku toolbelt CLI:
+**Home Page**
+> Navigation with links
+
+**Members**
+> The about page should show a picture of a 
+
+**Discography**
+>
+
+## Skeleton Plane
 
 1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
 2. Scroll down to the *API Key* and click *Reveal*
