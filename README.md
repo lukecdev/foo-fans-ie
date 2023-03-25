@@ -42,6 +42,32 @@ The following is a summery of the features already in place and those that could
 
 > The about page should show a picture of a 
 
+## Technoligies Used
+
+### Html
+>Used to structure my webpages.
+
+### CSS
+>Used to provide style, layout and responsiveness to my website.
+
+### Font Awesome
+>Used for all the social media icons.
+
+### Google Fonts
+>Used for all the fonts on my website.
+
+### Canva
+>Used to design The Forty Foot logo used in Header.
+
+### Online-Convert.com
+>Used to convert files from png/jpg to webp to reduce size and improve web loading speed.
+
+
+
+
+- [Google Fonts]( https://fonts.google.com/)
+	- Fonts used on the site are provided from Google Fonts. They are more visually relevant to the overall design of the site, and cannot be hosted locally on GitHub.
+
 ## Testing
 >Testing on this project was mainly done by myself and a few friends to determine site usablity, reponsiveness and ensure its intuitive to a new user.
 
@@ -49,7 +75,7 @@ The following is a summery of the features already in place and those that could
 
 ### Browser Compatibility 
 
-### testing Matrix
+
 
 ## Google Lighhouse Testing
 
@@ -87,22 +113,7 @@ The following is a summery of the features already in place and those that could
 
 ### Noted Issues
 
-## Technoligies Used
 
-- [HTML5]( https://www.w3.org/TR/2017/REC-html52-20171214/)
-	- Used to construct the site pages.
-
-- [CSS3]( https://www.w3.org/standards/techs/css#w3c_all)
-	- Provides styling for all pages and their content.
-
-
-- [Font Awesome 5]( https://fontawesome.com/icons?d=gallery)
-	- Icon elements used in the ‘Further Resources’ table.
-
-
-
-- [Google Fonts]( https://fonts.google.com/)
-	- Fonts used on the site are provided from Google Fonts. They are more visually relevant to the overall design of the site, and cannot be hosted locally on GitHub.
 
 ## Deployment
 
