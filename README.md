@@ -205,7 +205,8 @@ Text content on all pages was copied and/or amended from the following sites:
 
 ## Media
 
-A complete sourse for all media can be found in the [Project Outline]() word document
+> hero:
+> 
 
 
 <a name="acknowlegements"></a>
