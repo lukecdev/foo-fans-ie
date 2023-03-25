@@ -51,18 +51,38 @@ The following is a summery of the features already in place and those that could
 
 ### testing Matrix
 
+## Google Lighhouse Testing
+
+### index.html
+
+![Google Lighthouse index.html](assets/images/lighthouse-test-index-desktop.jpg)
+
+### members.html
+
+![Google Lighthouse members.html](assets/images/lighthouse-test-members.jpg)
+
+### Discography.html
+
+![Google Lighthouse discography.html](assets/images/html-check-discog.jpg)
+
 ## HTML Validation
 
 ### index.html
-![W3 index.html Check](assets/images/lighthouse-test-index-desktop.jpg)
+![W3 index.html Check](assets/images/html-check-html.jpg)
 #### Result: No Errors
 
 ### members.html
-![W3 members.html check](assets/images/lighthouse-test-members.jpg)
+![W3 members.html check](aassets/images/html-check-members.jpg)
 #### Result: No Errors
 
 ### discography.html
-![w3 discography.html check](assets/images/lighthouse-test-disg.jpg)
+![w3 discography.html check](assets/images/html-check-discog.jpg)
+#### Result: No Errors
+
+## CSS Validation
+
+### cotact-complete.html
+![index.html Check](assets/images/css-test.jpg)
 #### Result: No Errors
 
 ### Noted Issues
