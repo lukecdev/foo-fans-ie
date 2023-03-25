@@ -1,13 +1,11 @@
 /* Font family goes here */
-<style>
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
-</style>
 
 *{
     margin: 0;
     padding: 0;
-    border: none;
-    
+    border: none;   
 }
 body {
     margin: 0;
@@ -149,10 +147,6 @@ li a {
 
 .article-container.row-article {
     margin: 0 auto;
-}
-
-.jumbo {
-    background-color: none;
 }
 
 .jumbo h1,
@@ -407,10 +401,6 @@ height: 150px;
 
 .social-networks {
     text-align: center;
-}
-
-.social-networks > li {
-    display: center;
 }
 
 .social-networks i {
