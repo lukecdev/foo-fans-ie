@@ -29,10 +29,42 @@
 
 I designed thios website as an introduction of the American band Foo Fighters to new listioners. Providing information on their band members, history and discography.
 
+## Skeleton Plane
+
+### Wireframes
+![Home Page Wireframe](assets/images/ux-design-index.jpg)
+
+![Member Page Wireframe](assets/images/ux-design-member.jpg)
+
+![Discography Page Wireframe](assets\images\ux-design-disco.jpg)
+
+>The design flow of this was meant to showcase a minimal design that displays concise information on all devices. 
+>As the project was created, the inital design was too time consuming for the given time frame. The project was adapted to help this.
+>The main color theme was mainly black and red to reflect the bands color. 
 
 ## Features
+>The following is a summery of the features already in place.
+### index.html
 
-The following is a summery of the features already in place and those that could be implemented in the future.
+#### Navigation Bar
+![Navigation Bar](assets/images/nav-feature.jpg)
+
+> Navigation bar developed with flex containers and contains the website logo with two links to the right of the logo.
+
+#### Hero Section
+![Hero Section](assets/images/hero-feature-screenshot.jpg)
+
+> A large image with large text overlayed. 
+
+#### Members Zig-Zag Section
+![Members Section](assets/images/members-zig-zag.jpg)
+
+> Mmembers section displaying members of the band. A zig-zag is used to cleanly display the images and text.
+
+#### Discography
+![Discography Section](assets/images/discography-screenshot.jpg)
+
+> A card box layout to display in order the albums covers and information. 
 
 ## Existing Features
 
