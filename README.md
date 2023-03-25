@@ -79,7 +79,9 @@ I designed thios website as an introduction of the American band Foo Fighters to
 > These are features that I would have liked to implement for the site if I had more available time and more knowledge on the subject.
 
 ### Future Features 
-> dd 
+> A "timeline" design on the discography section, that displayed the album art work behind the release year. 
+> A audio section that played a sample of the bands music.
+> A sign up page to a newsletter to get more information on the band, such as upcoming tour dates and albums. 
 
 <a name="tech"></a>
 
