@@ -205,9 +205,14 @@ Text content on all pages was copied and/or amended from the following sites:
 
 ## Media
 
-> hero:
-> 
-
+> hero image: (https://static01.nyt.com/images/2021/06/22/arts/21FOOFIGHTERS05/21FOOFIGHTERS05-mediumSquareAt3X.jpg)
+> Dave Grohl Profile: (https://townsquare.media/site/366/files/2014/12/Dave-Grohl--630x420.jpg?w=980&q=75)
+> Pat Smear Profile: (https://rockcelebrities.net/wp-content/uploads/2021/03/pat-smear.jpg)
+> Taylor Hawkins: (https://cdn.mos.cms.futurecdn.net/oPDYH5WLT6njF7sKUQSY6G-1200-80.jpg)
+> Chris Shiftlett Profile: (https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chris_Shiftlett_-_Water_Rats_-_Wednesday_14th_June_2017_ShiftlettWaterRats140617-11_%2835234680452%29.jpg/1200px-Chris_Shiftlett_-_Water_Rats_-_Wednesday_14th_June_2017_ShiftlettWaterRats140617-11_%2835234680452%29.jpg)
+> Nathan Mendel Profile: (https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nate_Mendel_2011-12-05_Adelaide_Oval_Australia.jpg/220px-Nate_Mendel_2011-12-05_Adelaide_Oval_Australia.jpg)
+> Members header: (https://cdn.theatlantic.com/thumbor/77FMxJGfMpkM-FcZIiGHyH8mqec=/845x470:2635x1477/960x540/media/img/mt/2016/03/RTX283V4/original.jpg)
+> All Discography Albums taken from Wikipedia: (https://en.wikipedia.org/wiki/Foo_Fighters_discography)
 
 <a name="acknowlegements"></a>
 ## Acknowledgements
