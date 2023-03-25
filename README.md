@@ -6,7 +6,7 @@
 
 > This website is showcasing HTML and CSS design for Project Portfolio 1 that can be accesed though this [Link](https://lukecdev.github.io/foo-fans-ie/)
 
-
+**[Live Site](https://lukecdev.github.io/foo-fans-ie/)
 ----------------------------------------------
 
 ## **[Respository](https://github.com/lukecdev/foo-fans-ie)**
