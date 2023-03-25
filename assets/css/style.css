@@ -7,10 +7,11 @@
     padding: 0;
     border: none;   
 }
+/* Main body styling */
+
 body {
     margin: 0;
     font-family: oswald;
-    
     background-color: black;
     color: rgb(5, 4, 4);
 }
@@ -20,6 +21,8 @@ header {
     padding: 20px;
     padding-left: 30px;
 }
+
+/* Navigation bar styling */
 
 nav {
     background-color: #a50101;
@@ -96,14 +99,15 @@ li a {
     list-style-type: none;
 }
 
+/* logo positioning */
 
-/* logo */
-#logo{
+#logo {
     display: flex;
     width: 100px;
     height: 100px;
 }
-/* navigation links */
+
+/* navigation links styling */
 
 .menu {
     display: flex;
@@ -130,6 +134,8 @@ li a {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* hero image */
+
 .landing-container {
     background: url("../images/ff-hero-image-concert.webp")top center no-repeat;
     background-size: cover;
@@ -140,7 +146,6 @@ li a {
     height: 80vh;
 }
 
-
 .article-container {
     margin: 50px 0 70px 0;
 }
@@ -149,20 +154,20 @@ li a {
     margin: 0 auto;
 }
 
+/* Hero text */
+
 .jumbo h1,
 .jumbo h2 {
     text-align: center;
     color: #f3f1f1;
-    font-size: 6em;
-    
+    font-size: 6em;   
 }
 
 .jumbo h4 {
     text-align: center;
     color: #e1e1e1;
     margin: 0 0 0px 0;
-    font-size: 3em;
-    
+    font-size: 3em;   
 }
 
 .content-single-img {
@@ -173,6 +178,8 @@ li a {
     margin-bottom: 20px;
 }
 
+/* Index main text */
+
 .content-side-text,
 .content-table-text,
 .content-intro-text {
@@ -181,7 +188,6 @@ li a {
     background-color: rgba(176, 177, 178, 0.2);
     border-radius: 20px;
     border: 1px solid #a1969d;
-    
 }
 
 .content-side-text,
@@ -204,7 +210,7 @@ li a {
 }
 
 /* history of band */
-
+/*
 .history-title h1 {
     margin-bottom: 0px;
     line-height: 75px;
