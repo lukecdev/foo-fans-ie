@@ -1,6 +1,6 @@
 # Foo Fans ie
 ## A website built to display information on the band Foo Fighters
-### Mile Stone 1 - Luke Courtney
+### Portfolio Project 1 - Luke Courtney
 ----------------------------------------------
 > Foo Fans Ie is a website created to provide information on the American rock band Foo Fighters to new listeners of their music.
 
