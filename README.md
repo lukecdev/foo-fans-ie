@@ -73,7 +73,7 @@ The following is a summery of the features already in place and those that could
 
 ## Deployment
 
-> To deploy the project I followed these steps starting from the main project repository [here](hhttps://github.com/lukecdev/foo-fans-ie).
+> To deploy the project I followed these steps starting from the main project repository [here](https://github.com/lukecdev/foo-fans-ie).
  1. Clicked on `Settings` on the navigation menu in the repository
  2. I then selected the `Pages` menu on the side bar.
  3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
