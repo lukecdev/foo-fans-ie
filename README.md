@@ -62,18 +62,27 @@ The following is a summery of the features already in place and those that could
 ### Online-Convert.com
 >Used to convert files from png/jpg to webp to reduce size and improve web loading speed.
 
-
-
-
-- [Google Fonts]( https://fonts.google.com/)
-	- Fonts used on the site are provided from Google Fonts. They are more visually relevant to the overall design of the site, and cannot be hosted locally on GitHub.
+## Accessibility Features 
+>
 
 ## Testing
 >Testing on this project was mainly done by myself and a few friends to determine site usablity, reponsiveness and ensure its intuitive to a new user.
 
+### Testing Phase
 
+**Testing for links**
+| Test              | Outcome |
+|-------------------|---------------|
+|All links on Navigation lead to their correct pages| Pass  |
+|Footer social links all lead to their respective social media sites |Pass|
+|Content reformats on smaller screens|pass|
+|All images load on pages|pass|
 
-### Browser Compatibility 
+**Testing for reponsiveness**
+| Test              | Outcome |
+|-------------------|---------------|
+|Home page, about, portfolio, contact us displays correctly on screens larger than 950px|Pass |
+|Home page, about, portfolio, contact us displays correctly on screens smaller than 950px|Pass |
 
 
 
