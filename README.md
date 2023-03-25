@@ -43,7 +43,9 @@ The following is a summery of the features already in place and those that could
 > The about page should show a picture of a 
 
 ## Testing
->
+>Testing on this project was mainly done by myself and a few friends to determine site usablity, reponsiveness and ensure its intuitive to a new user.
+
+
 
 ### Browser Compatibility 
 
@@ -71,7 +73,14 @@ The following is a summery of the features already in place and those that could
 
 ## Deployment
 
-The site has been deployed using GitHub Pages and is available to review here[]
+> To deploy the project I followed these steps starting from the main project repository [here](hhttps://github.com/lukecdev/foo-fans-ie).
+ 1. Clicked on `Settings` on the navigation menu in the repository
+ 2. I then selected the `Pages` menu on the side bar.
+ 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labeled `/root` I left as the default option.
+ 5. Selected Save
+ 
+> I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
 ## Content
 

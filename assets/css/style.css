@@ -422,6 +422,8 @@ height: 150px;
 
 /* media queries */
 
+
+
 /* For medium screen sizes form 700px wide and down */
 @media screen and (max-width: 700px) {
     .nav-bar {
@@ -431,5 +433,4 @@ height: 150px;
         margin-bottom: 20px;
         line-height: 25px;
     }
-
 }
