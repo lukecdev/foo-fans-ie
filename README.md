@@ -20,7 +20,7 @@
 2. [ Features ](#features)
 3. [ Features left to Implement ](#left)
 4. [ Technology used ](#tech)
-5. [ Testing ](#test)
+5. [ Testing ](#testing)
 6. [ Bugs ](#bugs)
 7. [ Deployment ](#deployment)
 8. [ Credits ](#credits)
@@ -47,7 +47,9 @@ I designed thios website as an introduction of the American band Foo Fighters to
 >As the project was created, the inital design was too time consuming for the given time frame. The project was adapted to help this.
 >The main color theme was mainly black and red to reflect the bands color. 
 
-## Features
+<a name="features"></a>
+
+# Features
 >The following is a summery of the features already in place.
 ### index.html
 
@@ -71,15 +73,14 @@ I designed thios website as an introduction of the American band Foo Fighters to
 
 > A card box layout to display in order the albums covers and information. 
 
-## Existing Features
-
-> Navigation with links
-
+<a name="left"></a>
 ### Features left to Implement
 
 > These are features that I would have liked to implement for the site if I had more available time and more knowledge on the subject. 
 
-## Technoligies Used
+<a name="tech"></a>
+
+# Technologies Used
 
 ### Html
 >Used to structure my webpages.
@@ -102,7 +103,9 @@ I designed thios website as an introduction of the American band Foo Fighters to
 ## Accessibility Features 
 >
 
-## Testing
+<a name="testing"></a>
+
+# Testing
 >Testing on this project was mainly done by myself and a few friends to determine site usablity, reponsiveness and ensure its intuitive to a new user.
 
 ### Testing Phase
@@ -160,8 +163,9 @@ I designed thios website as an introduction of the American band Foo Fighters to
 ### Noted Issues
 
 
+<a name="deployment"></a>
 
-## Deployment
+# Deployment
 
 > To deploy the project I followed these steps starting from the main project repository [here](https://github.com/lukecdev/foo-fans-ie).
  1. Clicked on `Settings` on the navigation menu in the repository
@@ -171,6 +175,8 @@ I designed thios website as an introduction of the American band Foo Fighters to
  5. Selected Save
  
 > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
+
+<a name="credits"></a>
 
 # Credits
 
