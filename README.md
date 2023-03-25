@@ -34,7 +34,6 @@
 
 I designed thios website as an introduction of the American band Foo Fighters to new listioners. Providing information on their band members, history and discography.
 
-## Skeleton Plane
 
 ### Wireframes
 ![Home Page Wireframe](assets/images/ux-design-index.jpg)
@@ -73,6 +72,10 @@ I designed thios website as an introduction of the American band Foo Fighters to
 
 > A card box layout to display in order the albums covers and information. 
 
+#### Color Palette
+> The color palette used was based of the bands colors of red and black. 
+> The color codes that where used: #a50101 & rgb(5, 4, 4). 
+
 <a name="left"></a>
 
 # Features left to Implement
@@ -82,6 +85,8 @@ I designed thios website as an introduction of the American band Foo Fighters to
 > A "timeline" design on the discography section, that displayed the album art work behind the release year. 
 > A audio section that played a sample of the bands music.
 > A sign up page to a newsletter to get more information on the band, such as upcoming tour dates and albums. 
+> More responsive design for smaller screens.
+> Adding a "burger menu" for the navigation links when the scrren size goes under 500px width.
 
 <a name="tech"></a>
 
