@@ -133,7 +133,7 @@ li a {
 }
 
 .landing-container {
-    background: url("../images/ff-hero-image-concert.jpg")top center no-repeat;
+    background: url("../images/ff-hero-image-concert.webp")top center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
