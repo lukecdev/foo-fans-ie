@@ -172,7 +172,18 @@ I designed thios website as an introduction of the American band Foo Fighters to
  
 > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
-## Content
+# Credits
+
+## Content & Resources
+
+### W3 schools
+> Used for general lookup for HTML and CSS synthax queries.
+
+### Stack Overflow
+> Used to query issues relating to CSS issues I had experienced.
+
+### Code Institute
+> Project created in line with course content and within project 1 scope.
 
 Text content on all pages was copied and/or amended from the following sites:
 
@@ -184,6 +195,8 @@ Text content on all pages was copied and/or amended from the following sites:
 
 A complete sourse for all media can be found in the [Project Outline]() word document
 
+
+<a name="acknowlegements"></a>
 ## Acknowledgements
 
 A huge thanks to [Chris Quinn](https://github.com/10xOXR) for his help, suggestions and patiece while I put together this project. 
