@@ -245,9 +245,10 @@ li a {
 /* Members Bios */
 
 .bio-header {
+    position: relative;
     height: 60vh;
     width: 100%;
-    position: relative;
+    
 }
 
 .bio-header-image {
