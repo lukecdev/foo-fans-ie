@@ -1,12 +1,14 @@
 # Foo Fans ie
 ## A website built to display information on the band Foo Fighters
-### MS1 - Luke Courtney
+### Mile Stone 1 - Luke Courtney
 
 ## **[Live site](https://lukecdev.github.io/foo-fans-ie/)**
 
 ----------------------------------------------
 
 ## **[Respository]()**
+----------------------------------------------
+![Responsive Mockup Screenshot](assets/images/mockup-screen.jpg)
 ----------------------------------------------
 
 ## Table of contents
@@ -72,7 +74,7 @@ I designed thios website as an introduction of the American band Foo Fighters to
 
 ### Features left to Implement
 
-> The about page should show a picture of a 
+> These are features that I would have liked to implement for the site if I had more available time and more knowledge on the subject. 
 
 ## Technoligies Used
 
