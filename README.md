@@ -107,7 +107,7 @@ The following is a summery of the features already in place and those that could
 #### Result: No Errors
 
 ### members.html
-![W3 members.html check](aassets/images/html-check-members.jpg)
+![W3 members.html check](assets/images/html-check-members.jpg)
 #### Result: No Errors
 
 ### discography.html
