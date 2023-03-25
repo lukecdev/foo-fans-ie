@@ -6,7 +6,7 @@
 
 ----------------------------------------------
 
-## **[Respository]()**
+## **[Respository](https://github.com/lukecdev/foo-fans-ie)**
 ----------------------------------------------
 ![Responsive Mockup Screenshot](assets/images/mockup-screen.jpg)
 ----------------------------------------------
