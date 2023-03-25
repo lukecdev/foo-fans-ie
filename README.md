@@ -185,7 +185,7 @@ I designed thios website as an introduction of the American band Foo Fighters to
 
 # Credits
 
-## Content & Resources
+## Resources
 
 ### W3 schools
 > Used for general lookup for HTML and CSS synthax queries.
@@ -196,11 +196,12 @@ I designed thios website as an introduction of the American band Foo Fighters to
 ### Code Institute
 > Project created in line with course content and within project 1 scope.
 
+## Content
 Text content on all pages was copied and/or amended from the following sites:
 
- - [foofighters]
- - [wiki]
- - [f]
+ - [Wikipedia](https://en.wikipedia.org/wiki/Foo_Fighters)
+ - [Foo Fighters](https://foofighters.com/)
+
 
 ## Media
 
@@ -211,3 +212,4 @@ A complete sourse for all media can be found in the [Project Outline]() word doc
 ## Acknowledgements
 
 A huge thanks to [Chris Quinn](https://github.com/10xOXR) for his help, suggestions and patiece while I put together this project. 
+
