@@ -76,8 +76,10 @@ I designed thios website as an introduction of the American band Foo Fighters to
 <a name="left"></a>
 
 # Features left to Implement
+> These are features that I would have liked to implement for the site if I had more available time and more knowledge on the subject.
 
-> These are features that I would have liked to implement for the site if I had more available time and more knowledge on the subject. 
+### Future Features 
+> dd 
 
 <a name="tech"></a>
 
