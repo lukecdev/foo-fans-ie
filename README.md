@@ -34,7 +34,7 @@ I designed thios website as an introduction of the American band Foo Fighters to
 ### Wireframes
 ![Home Page Wireframe](assets/images/ux-design-index.jpg)
 
-![Member Page Wireframe](assets/images/ux-design-member .jpg)
+![Member Page Wireframe](assets/images/ux-design-bio.jpg)
 
 ![Discography Page Wireframe](assets/images/ux-design-disco.jpg)
 
