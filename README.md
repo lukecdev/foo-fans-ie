@@ -51,6 +51,19 @@ The following is a summery of the features already in place and those that could
 
 ### testing Matrix
 
+## HTML Validation
+
+### index.html
+![W3 index.html Check](assets/images/lighthouse-test-index-desktop.jpg)
+#### Result: No Errors
+
+### members.html
+![W3 members.html check](assets/images/lighthouse-test-members.jpg)
+#### Result: No Errors
+
+### discography.html
+![w3 discography.html check](assets/images/lighthouse-test-disg.jpg)
+#### Result: No Errors
 
 ### Noted Issues
 
