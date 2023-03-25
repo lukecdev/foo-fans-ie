@@ -34,9 +34,9 @@ I designed thios website as an introduction of the American band Foo Fighters to
 ### Wireframes
 ![Home Page Wireframe](assets/images/ux-design-index.jpg)
 
-![Member Page Wireframe](assets/images/ux-design-member.jpg)
+![Member Page Wireframe](assets/images/ux-design-member .jpg)
 
-![Discography Page Wireframe](assets\images\ux-design-disco.jpg)
+![Discography Page Wireframe](assets/images/ux-design-disco.jpg)
 
 >The design flow of this was meant to showcase a minimal design that displays concise information on all devices. 
 >As the project was created, the inital design was too time consuming for the given time frame. The project was adapted to help this.
